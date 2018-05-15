@@ -1,0 +1,10 @@
+      1000;               Milosz;                       Kadziela;                                          papiez 21;  9876859432;         2000.00;
+      1001;               Jonasz;                      Wojtysiak;                                           kakal 22; 86957483452;         1100.00;
+      1002;              Bartosz;                         pikacz;                                          miasto 22; 87544898302;          800.00;
+         1;                  adw;                            awd;                                                awd; 12312435436;         1233.00;
+        12;               Jonasz;                       Kadziela;                                       Orzechowa 11; 98324212341;         9990.00;
+       151;              Dariusz;                       Kadziela;                                       Orzechowa 11; 98762837218;       100000.00;
+       900;                 Olek;                        Patalas;                                        Jesionowa 7; 98765847381;          100.00;
+      1005;               Maciej;                     Piotrowski;                                             papa 2; 98675843982;         1000.00;
+      1009;               Patryk;                    Maciejewicz;                                           Lalka 90;  9898789878;        1000.00;
+      1077;               Maciej;                        Matryca;                                             kmsf 4; 98769504353;         1000.00;
